@@ -128,7 +128,8 @@ zsh
 
 libxinerama
 xelph-calamares-config-btrfs-git
-xelph-calamares-git
+calamares
+#xelph-calamares-git
 xorg-xrdb
 
 #######################################################
